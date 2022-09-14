@@ -1,0 +1,13 @@
+﻿  Chofer.cpp
+  Cobro.cpp
+  Hora.cpp
+  InfoDelCampo.cpp
+C:\Users\Sebas Fuentes\OneDrive\Documentos\Sebas\Universidades\UNA\4. II SEMESTRE 2022\Programacion I\Proyecto1SebastianFuentesJimenez\Proyecto1SebastianFuentesJimenez\InfoDelCampo.cpp(14,16): warning C4154: eliminación de una expresión de matriz; suministrada una conversión a puntero
+  Main.cpp
+C:\Users\Sebas Fuentes\OneDrive\Documentos\Sebas\Universidades\UNA\4. II SEMESTRE 2022\Programacion I\Proyecto1SebastianFuentesJimenez\Proyecto1SebastianFuentesJimenez\Main.cpp(28,75): warning C4305: 'argumento': truncamiento de '__int64' a 'int'
+C:\Users\Sebas Fuentes\OneDrive\Documentos\Sebas\Universidades\UNA\4. II SEMESTRE 2022\Programacion I\Proyecto1SebastianFuentesJimenez\Proyecto1SebastianFuentesJimenez\Main.cpp(28,47): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\Sebas Fuentes\OneDrive\Documentos\Sebas\Universidades\UNA\4. II SEMESTRE 2022\Programacion I\Proyecto1SebastianFuentesJimenez\Proyecto1SebastianFuentesJimenez\Main.cpp(8,12): warning C4101: 'chofPtr': variable local sin referencia
+  Parqueo.cpp
+  Vehiculo.cpp
+  Generando código...
+  Proyecto1SebastianFuentesJimenez.vcxproj -> C:\Users\Sebas Fuentes\OneDrive\Documentos\Sebas\Universidades\UNA\4. II SEMESTRE 2022\Programacion I\Proyecto1SebastianFuentesJimenez\x64\Debug\Proyecto1SebastianFuentesJimenez.exe
